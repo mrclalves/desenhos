@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Página-1" id="mWXvzTm0WsaQfORGLogm">
-    <mxGraphModel>
+    <mxGraphModel dx="1007" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DRNkL6EbgQ7DahQyPjbA-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="170" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DRNkL6EbgQ7DahQyPjbA-1" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="DRNkL6EbgQ7DahQyPjbA-4">
+          <mxGeometry width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DRNkL6EbgQ7DahQyPjbA-3" value="service&lt;div&gt;client&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="DRNkL6EbgQ7DahQyPjbA-4">
+          <mxGeometry x="15" y="100" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
