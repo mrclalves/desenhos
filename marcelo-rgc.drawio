@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dvvf518yZU_GAhTbx-Bf-32" value="* Estagiários&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Dvvf518yZU_GAhTbx-Bf-32" value="* Estagiários&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dvvf518yZU_GAhTbx-Bf-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dvvf518yZU_GAhTbx-Bf-20" target="Dvvf518yZU_GAhTbx-Bf-22">
@@ -13,10 +13,10 @@
         <mxCell id="Dvvf518yZU_GAhTbx-Bf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dvvf518yZU_GAhTbx-Bf-20" target="Dvvf518yZU_GAhTbx-Bf-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dvvf518yZU_GAhTbx-Bf-20" value="&lt;b&gt;MARCELO ALVES&lt;/b&gt;&lt;div&gt;CEO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Dvvf518yZU_GAhTbx-Bf-20" value="&lt;b&gt;MARCELO ALVES&lt;/b&gt;&lt;div&gt;CEO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dvvf518yZU_GAhTbx-Bf-21" value="&lt;b&gt;MANTER SERVIDORES&lt;/b&gt;&lt;div&gt;Serviços&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Dvvf518yZU_GAhTbx-Bf-21" value="&lt;b&gt;MANTER SERVIDORES&lt;/b&gt;&lt;div&gt;Serviços&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dvvf518yZU_GAhTbx-Bf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dvvf518yZU_GAhTbx-Bf-22" target="Dvvf518yZU_GAhTbx-Bf-24">
@@ -28,25 +28,25 @@
         <mxCell id="Dvvf518yZU_GAhTbx-Bf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Dvvf518yZU_GAhTbx-Bf-22" target="Dvvf518yZU_GAhTbx-Bf-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dvvf518yZU_GAhTbx-Bf-22" value="&lt;b&gt;RGC&lt;/b&gt;&lt;div&gt;Empresa&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Dvvf518yZU_GAhTbx-Bf-22" value="&lt;b&gt;RGC&lt;/b&gt;&lt;div&gt;Empresa&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dvvf518yZU_GAhTbx-Bf-24" value="&lt;b&gt;DevOps&lt;/b&gt;&lt;div&gt;(automatizar build, testes e implantação)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Dvvf518yZU_GAhTbx-Bf-24" value="&lt;b&gt;DevOps&lt;/b&gt;&lt;div&gt;(automatizar build, testes e implantação)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dvvf518yZU_GAhTbx-Bf-25" value="&lt;b&gt;CONSULTORIA&lt;/b&gt;&lt;br&gt;Arquitetura&lt;div&gt;Desenvolvimento&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Dvvf518yZU_GAhTbx-Bf-25" value="&lt;b&gt;CONSULTORIA&lt;/b&gt;&lt;br&gt;Arquitetura&lt;div&gt;Desenvolvimento&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dvvf518yZU_GAhTbx-Bf-29" value="&lt;b&gt;MANTER SITE&lt;/b&gt;&lt;div&gt;Escola de Trabalhador&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Dvvf518yZU_GAhTbx-Bf-29" value="&lt;b&gt;MANTER SITE&lt;/b&gt;&lt;div&gt;Escola de Trabalhador&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dvvf518yZU_GAhTbx-Bf-33" value="&lt;div&gt;* Marcelo&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;verticalAlign=top;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="Dvvf518yZU_GAhTbx-Bf-33" value="&lt;div&gt;* Marcelo&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;verticalAlign=top;strokeColor=#6c8ebf;fillColor=#dae8fc;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dvvf518yZU_GAhTbx-Bf-34" value="&lt;div&gt;* Marcelo&lt;/div&gt;&lt;div&gt;* Luan Kol&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;verticalAlign=top;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="Dvvf518yZU_GAhTbx-Bf-34" value="&lt;div&gt;* Marcelo&lt;/div&gt;&lt;div&gt;* Luan Kol&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;verticalAlign=top;strokeColor=#6c8ebf;fillColor=#dae8fc;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dvvf518yZU_GAhTbx-Bf-35" value="&lt;div&gt;* Marcelo&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Dvvf518yZU_GAhTbx-Bf-35" value="&lt;div&gt;* Marcelo&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="340" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
