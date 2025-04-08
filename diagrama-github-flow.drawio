@@ -82,12 +82,12 @@
         <mxCell id="ZoEZg1mx5itgojpnxjtS-30" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;&quot;&gt;0.2.0&lt;/b&gt;&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Tag.svg;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="160" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZoEZg1mx5itgojpnxjtS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=1 4;strokeColor=#0000CC;" edge="1" parent="1" source="ZoEZg1mx5itgojpnxjtS-32">
+        <mxCell id="ZoEZg1mx5itgojpnxjtS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;dashPattern=1 4;strokeColor=#0000FF;" edge="1" parent="1" source="ZoEZg1mx5itgojpnxjtS-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZoEZg1mx5itgojpnxjtS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;curved=1;fillColor=#dae8fc;strokeColor=#0000CC;" edge="1" parent="1" source="ZoEZg1mx5itgojpnxjtS-32">
+        <mxCell id="ZoEZg1mx5itgojpnxjtS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 4;curved=1;fillColor=#dae8fc;strokeColor=#0000FF;" edge="1" parent="1" source="ZoEZg1mx5itgojpnxjtS-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="280" as="targetPoint" />
           </mxGeometry>
